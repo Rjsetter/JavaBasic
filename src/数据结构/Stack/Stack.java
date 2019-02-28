@@ -1,4 +1,4 @@
-package 数据结构;
+package 数据结构.Stack;
 
 public class Stack {
     private int size;                   //栈的大小
